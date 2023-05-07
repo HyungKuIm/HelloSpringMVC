@@ -12,6 +12,8 @@
     <title>Title</title>
 </head>
 <body>
+<a href="/HelloSpringMVC/register">登録</a>
+<h2>User Management Application</h2>
     <table border="1">
         <tr>
             <th>id</th>
